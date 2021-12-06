@@ -1,5 +1,5 @@
-open notepad 
-type:
+#open notepad 
+#type:
       %0|%0
       
-save as .bat
+#save as .bat
